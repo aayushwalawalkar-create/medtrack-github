@@ -1,1 +1,12 @@
-hi
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Local development
+.env
+.env.*
+node_modules/
